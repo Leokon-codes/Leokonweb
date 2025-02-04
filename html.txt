@@ -1,0 +1,49 @@
+Html
+opening tags: examples <html><head><title><body>
+closing tags: examples </htm></head></title></body>
+
+html that does not contain closing tags such html elements are also known as singleton tags or void elements
+examples: <br/><input/><mg/><link/>
+
+html attributes:
+means html elements
+always inside the html elements
+provides additinal information about the html elements
+tey appear as name value pair, but not always ; <id="hel_he"> id is name with the value 'hel_he' 
+1. <a id="saugat">hello</a>: specifies a unique id for a elements
+2. <div class="hello"></div> CLASS: specifies more class nnames for a elements
+3. access key: <a href="saugat.css> accesskey="h">Html</a> : specifies a shortcut key to activate/focus an elements
+4. contentediatable: <p contentediatable="ture"> hello </p>: specifies whether the content of an elementsis editable or not
+5. styyle: specifies an inline CSS style for a element.<p style="color:red">hello</p>
+3. title: <p title="Hello">H</p> specifies extra info about an elements
+7. hidden: <p hidden> hello </p> 
+8. global attributes there are some other attributes which is used in certain elements only.
+i> href: anchor tah<a></a>
+
+tags
+<em> </em>: italic banauni 
+<strong> </strong>: bold banauxa
+<i></i>: italic
+<sub> </sub>: tala aauxa example: h20
+<sup> </sup>: mathi aauxa example: (a+b)^2
+<del></del>: kateko aauxa
+<ins> </ins>: insert garxa
+<small> </small>: 
+<ol> <li> hello </li> </ol>: ordered list  
+<ul> <li> </li> </ul>: unordered list
+
+
+write am html code with output
+1. \
+
+
+html tag, element,
+
+An image map is a single image that contains one or more hyperlinks in various areas.
+I can be used to different section of any image. We can.make image map by defining each of 
+the sensitive areas. With image map you can add clickable areas on image.
+Decrements an E mails for map containing rules that describes the applicable area.Use map activity is used to define the map of our image.
+
+tasks: 
+defination list
+summary
